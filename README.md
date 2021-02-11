@@ -1,2 +1,3 @@
 # Wine-Quality-Analysis
-Wine Quality Analysis
+
+Analyzing red and wine quality from two datasets from Udacity
